@@ -23,7 +23,7 @@ const Layout = ({ children }) => {
         <div>{children}</div>
       </div>
       <div className="footer">
-        <p>Created by Ritesh M Rao</p>
+        <p>Created by Rithesh M Rao</p>
       </div>
     </>
   );
